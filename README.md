@@ -28,7 +28,8 @@ The dashboard helps stakeholders monitor key performance indicators (KPIs), iden
 
 ## 📊 Dashboard Preview
 
-![AfriMart Sales Dashboard](AfriMart _Sales_Dashboard_Screenshoot_ in _Excel)
+![AfriMart Sales Dashboard](AfriMart_Sales_Dashboard_Screenshoot_ in _Excel)
+
 -Interactive dashboard showing sales performance, profitability, and product insights.
 ---
 
@@ -115,7 +116,7 @@ Based on the insights presented, the following actions could support business gr
 The repository contains the following project materials:
 
 - [AfriMart sales Dataset](AfriMart_KollyBright_Sales_Dataset)
-- [Dashboard Image](AfriMart _Sales_Dashboard_Screenshoot_ in _Excel)
+- [Dashboard Image](AfriMart_Sales_Dashboard_Screenshoot_ in _Excel)
 - [Company Logo](AfriMart_KollyBright_Logo)
 - README.md
 
